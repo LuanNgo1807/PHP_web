@@ -33,7 +33,7 @@
 						<li><a href="#">Cơm chiên</a></li>
 					</ul>
 				</li>
-				<li><a href="#">Tìm hiểu</a></li>
+				<li><a href="#">Bestseller</a></li>
 				<li><a href="#">Khuyến mãi</a></li>
 				<li><a href="#">Tin tức</a></li>
 				<li><a href="#">Liên hệ</a>
