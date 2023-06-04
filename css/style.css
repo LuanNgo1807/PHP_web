@@ -184,6 +184,9 @@ body{
 .maincontent >#bestseller >a >img:hover{
 	transform:scale(1.02);
 }
+.menu-input-text{
+	height: 40px;
+}
 .combo,.combo1{
   position: relative;
   width: 29%;

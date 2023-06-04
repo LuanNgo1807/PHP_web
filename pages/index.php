@@ -35,13 +35,13 @@
 				</li>
 				<li><a href="#">Bestseller</a></li>
 				<li><a href="#">Khuyến mãi</a></li>
-				<li><a href="#">Tin tức</a></li>
-				<li><a href="#">Liên hệ</a>
-					<ul class="mini-menu2">
-						<li><a href="#">Facebook</a></li>
-						<li><a href="#">Instagram</a></li>
-					</ul>
-				</li>
+				<li><a href="#">Giỏ hàng</a></li>
+				<li> 
+                    <Form> 
+                        <input type="text" class="menu-input-text" placeholder="Tìm kiếm....." name="tukhoa" height="40px">
+                        <input type="submit" class="menu-input-submit" name="timkiem" value="Tìm Kiếm">
+                    </Form>
+                </li>
 			</ul>
 		</div>
 		<div id="main">
